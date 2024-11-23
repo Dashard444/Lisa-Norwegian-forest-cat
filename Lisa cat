@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cat Lisa Norwegian Forest Cat</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffe4e1; /* Розовый цвет */
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #ff69b4;
+            color: white;
+            padding: 20px;
+        }
+        h1 {
+            margin: 0;
+        }
+        section {
+            padding: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 15px;
+            margin: 20px 0;
+        }
+        footer {
+            background-color: #ff69b4;
+            color: white;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Cat Lisa Norwegian Forest Cat</h1>
+        <p>Все о норвежских лесных кошках</p>
+    </header>
+    <section>
+        <img src="instagram: lisa_cat44" alt="Norwegian Forest Cat">
+        <h2>Характер</h2>
+        <p>Норвежские лесные кошки дружелюбные, общительные и независимые. Они прекрасно ладят с детьми и другими животными.</p>
+        <h2>Уход</h2>
+        <p>Уход за шерстью включает регулярное расчесывание. Эти кошки любят активные игры и требуют внимания.</p>
+        <h2>История</h2>
+        <p>Порода зародилась в Норвегии и известна своей густой шерстью, которая защищает их в суровом климате.</p>
+    </section>
+    <footer>
+        <p>Сайт о кошке Лизе © 2024</p>
+    </footer>
+</body>
+</html>
+
